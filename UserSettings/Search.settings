@@ -17,11 +17,16 @@ scopes = {
 	"last_search.7E63D72B" = ""
 	"OpenInspectorPreview.7E63D72B" = "0"
 	"currentGroup.7E63D72B" = "all"
-	"picker_window_position_offset.74AD8FDB" = "927.3333;137.3333;320;550"
-	"picker_search_text.74AD8FDB" = "partic"
-	"last_search.74AD8FDB" = "partic"
+	"picker_window_position_offset.74AD8FDB" = "927.3333;137.3333;508;550"
+	"picker_search_text.74AD8FDB" = "par"
+	"last_search.74AD8FDB" = "par"
 	"OpenInspectorPreview.74AD8FDB" = "0"
 	"currentGroup.74AD8FDB" = "all"
+	"picker_window_position_offset.937786DF" = "1134.667;458.6667;320;550"
+	"picker_search_text.937786DF" = ""
+	"last_search.937786DF" = ""
+	"OpenInspectorPreview.937786DF" = "0"
+	"currentGroup.937786DF" = "all"
 }
 providers = {
 	adb = {
@@ -68,6 +73,7 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	""
 	"y"
 ]
 searchItemFavorites = [
